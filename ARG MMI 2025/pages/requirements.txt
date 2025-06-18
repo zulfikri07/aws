@@ -4,3 +4,4 @@ oauth2client
 paho-mqtt
 streamlit_option_menu
 matplotlib
+pydeck
